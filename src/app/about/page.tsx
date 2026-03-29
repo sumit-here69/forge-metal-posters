@@ -67,7 +67,7 @@ export default function AboutPage() {
               Our Story
             </h1>
             <p className="text-neutral-600 mt-6 text-lg leading-relaxed">
-              SLAY was born from a simple belief: wall art should be as bold and
+              RON was born from a simple belief: wall art should be as bold and
               lasting as the memories it represents. We are a premium metal
               poster brand dedicated to transforming your favorite moments from
               movies, anime, cars, music, sports, and gaming into stunning

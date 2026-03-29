@@ -10,7 +10,7 @@ export default function Instagram() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-10">
         <div className="text-center">
           <span className="text-xs font-medium tracking-[0.3em] uppercase text-neutral-400">
-            @slay.posters
+            @ron.posters
           </span>
           <h2
             className="text-4xl sm:text-5xl font-bold mt-2 tracking-tight"

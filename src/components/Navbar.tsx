@@ -40,7 +40,7 @@ export default function Navbar() {
                 className="text-2xl font-bold tracking-[0.2em] uppercase"
                 style={{ fontFamily: "var(--font-space-grotesk)" }}
               >
-                SLAY
+                RON
               </span>
             </Link>
 
