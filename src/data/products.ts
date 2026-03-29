@@ -93,8 +93,8 @@ export const products: Product[] = [
   // CARS & SUPERCARS
   {
     id: 1,
-    name: "1966 Shelby Mustang GT350 | Muscle Car Wall Art | 8 Panel Split Wall Set",
-    slug: "shelby-mustang-gt350",
+    name: "Audi S5 Sportback | Sunset Edition Metal Wall Art | 8 Panel Split Wall Set",
+    slug: "audi-s5-sunset",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -109,7 +109,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?w=800&q=80",
     ],
     description:
-      "A tribute to the legendary 1966 Shelby Mustang GT350, printed on premium brushed aluminum. The metallic finish gives this muscle car art an incredible depth and shimmer that captures every curve and line of this American icon. The birth of an American Muscle Legend.",
+      "An orange Audi S5 Sportback bathed in golden sunset light beneath a dramatic bridge, printed on premium brushed aluminum. The warm tones and metallic finish create an incredible sense of depth that captures the car's sleek silhouette. A stunning centrepiece for any automotive enthusiast's wall.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -124,8 +124,8 @@ export const products: Product[] = [
   },
   {
     id: 2,
-    name: "The Dark Knight | Batman Trilogy Metal Poster",
-    slug: "dark-knight-trilogy",
+    name: "Spider-Man | Web Slinger Metal Poster",
+    slug: "spider-man-web-slinger",
     category: "Movies",
     categorySlug: "movies",
     price: 1299,
@@ -140,7 +140,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=800&q=80",
     ],
     description:
-      "The Dark Knight rises on brushed aluminum. This stunning metal poster captures the brooding atmosphere of Gotham with incredible depth. The metallic surface adds a cinematic quality that makes Batman feel alive on your wall.",
+      "Spider-Man in his iconic web-shooting pose, captured in stunning detail on brushed aluminum. The metallic surface brings out every texture of the suit and adds a dynamic intensity to this action-packed shot. A must-have for any Marvel fan's collection.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -154,8 +154,8 @@ export const products: Product[] = [
   },
   {
     id: 3,
-    name: "Attack on Titan | Eren Yeager Metal Print",
-    slug: "attack-on-titan-eren",
+    name: "Neon Genesis Evangelion | Asuka Langley Metal Print",
+    slug: "evangelion-asuka",
     category: "Anime",
     categorySlug: "anime",
     price: 999,
@@ -170,7 +170,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=800&q=80",
     ],
     description:
-      "Eren Yeager in all his glory, printed on premium brushed aluminum. The metallic finish brings out the intense details and vibrant colors of this iconic anime character. A must-have for any Attack on Titan fan.",
+      "Asuka Langley from Neon Genesis Evangelion, striking against a bold red background on premium brushed aluminum. The metallic finish amplifies the vivid reds and brings out the intricate details of this iconic anime figure. A standout piece for any Evangelion fan.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -184,8 +184,8 @@ export const products: Product[] = [
   },
   {
     id: 4,
-    name: "Lamborghini Aventador SVJ | Supercar Metal Art | 3 Piece Set",
-    slug: "lamborghini-aventador",
+    name: "Mercedes-AMG GT R | Track Beast Metal Art | 3 Piece Set",
+    slug: "mercedes-amg-gt-r",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -200,7 +200,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?w=800&q=80",
     ],
     description:
-      "The Lamborghini Aventador SVJ in all its aggressive beauty, captured on brushed aluminum. The metallic surface perfectly complements the car's sharp lines and exotic design, creating a poster that commands attention in any room.",
+      "The grey Mercedes-AMG GT R with striking yellow accents, poised on the track and ready to unleash. Printed on brushed aluminum, the metallic finish mirrors the car's own aggressive bodywork and creates a poster that commands attention in any room.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -214,8 +214,8 @@ export const products: Product[] = [
   },
   {
     id: 5,
-    name: "Breaking Bad | Heisenberg Metal Poster",
-    slug: "breaking-bad-heisenberg",
+    name: "Central Cinema | Neon Nights Metal Poster",
+    slug: "cinema-neon-nights",
     category: "Movies",
     categorySlug: "movies",
     price: 1299,
@@ -230,7 +230,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
     ],
     description:
-      "Say my name. The iconic Heisenberg portrait on brushed aluminum with incredible tonal depth. The metallic finish adds a gritty, cinematic quality that perfectly captures the dark intensity of Breaking Bad.",
+      "The glowing pink neon of the Central Cinema sign illuminates the night in this atmospheric shot, printed on brushed aluminum. The metallic surface makes the neon colours genuinely shimmer and glow, capturing that magical feeling of a night at the movies.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -244,8 +244,8 @@ export const products: Product[] = [
   },
   {
     id: 6,
-    name: "Interstellar | Black Hole Metal Art",
-    slug: "interstellar-black-hole",
+    name: "Milky Way | Starry Night Sky Metal Art",
+    slug: "milky-way-starry-night",
     category: "Movies",
     categorySlug: "movies",
     price: 1499,
@@ -260,7 +260,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&q=80",
     ],
     description:
-      "Gargantua awaits. The breathtaking black hole from Interstellar, printed on brushed aluminum. The metallic surface creates an otherworldly shimmer that makes this cosmic artwork truly transcendent.",
+      "A breathtaking view of the Milky Way stretching across a purple night sky, with a shooting star cutting through the cosmos. Printed on brushed aluminum, the metallic surface makes every star shimmer and glow, creating a truly transcendent piece of cosmic wall art.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -274,8 +274,8 @@ export const products: Product[] = [
   },
   {
     id: 7,
-    name: "Spider-Man | Spider Verse Metal Print",
-    slug: "spider-verse",
+    name: "Spider-Man | Dark Portrait Metal Print",
+    slug: "spider-man-dark-portrait",
     category: "Movies",
     categorySlug: "movies",
     price: 999,
@@ -290,7 +290,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1534809027769-b00d750a6bac?w=800&q=80",
     ],
     description:
-      "Miles Morales swings into your space on premium brushed aluminum. The vibrant pop-art style of Spider-Verse is amplified by the metallic finish, creating colors that literally glow.",
+      "A dramatic close-up of Spider-Man emerging from the shadows, glowing eyes piercing through the darkness. On brushed aluminum, the deep blacks and subtle highlights create an intensely cinematic portrait that feels alive on your wall.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -304,8 +304,8 @@ export const products: Product[] = [
   },
   {
     id: 8,
-    name: "Porsche 911 GT3 RS | Racing Metal Art | 3 Piece Set",
-    slug: "porsche-911-gt3-rs",
+    name: "McLaren 720S | Silver Arrow Metal Art | 3 Piece Set",
+    slug: "mclaren-720s",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -320,7 +320,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c?w=800&q=80",
     ],
     description:
-      "The Porsche 911 GT3 RS — engineering perfection on brushed aluminum. Every aerodynamic detail, every racing line, captured with stunning clarity on premium metal.",
+      "The white McLaren 720S gleaming in the countryside, a perfect fusion of speed and serenity. Printed on brushed aluminum, the silver tones of the car blend seamlessly with the metallic surface, creating a stunningly refined piece of automotive art.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -334,8 +334,8 @@ export const products: Product[] = [
   },
   {
     id: 9,
-    name: "Naruto Uzumaki | Sage Mode Metal Poster",
-    slug: "naruto-sage-mode",
+    name: "Anime Wall Collage | Manga Collection Metal Poster",
+    slug: "anime-wall-collage",
     category: "Anime",
     categorySlug: "anime",
     price: 999,
@@ -350,7 +350,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1613376023733-0a73315d9b06?w=800&q=80",
     ],
     description:
-      "Naruto in Sage Mode, channeling nature energy on premium brushed aluminum. The orange and gold tones shimmer on the metallic surface, bringing this legendary ninja to life.",
+      "A curated collection of anime and manga prints being arranged on a wall, capturing the art of the otaku lifestyle. On brushed aluminum, the vibrant colours of each print pop with incredible intensity, making this a perfect tribute to anime culture.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -364,8 +364,8 @@ export const products: Product[] = [
   },
   {
     id: 10,
-    name: "Bohemian Rhapsody | Queen Metal Print",
-    slug: "bohemian-rhapsody-queen",
+    name: "Guitar Studio | Acoustic Vibes Metal Print",
+    slug: "guitar-studio-acoustic",
     category: "Music",
     categorySlug: "music",
     price: 1299,
@@ -380,7 +380,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
     ],
     description:
-      "Is this the real life? Freddie Mercury and Queen immortalized on brushed aluminum. The metallic surface adds a rock-and-roll edge that no paper print can match.",
+      "A warm, inviting guitar studio filled with acoustic guitars, a keyboard, and a microphone, ready to make music. Printed on brushed aluminum, the golden tones and moody lighting give this piece a rich, intimate feel that any musician will love.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -394,8 +394,8 @@ export const products: Product[] = [
   },
   {
     id: 11,
-    name: "Ferrari F40 | Classic Supercar Metal Art | 3 Piece Set",
-    slug: "ferrari-f40",
+    name: "Mercedes-AMG GT | Golden Rush Metal Art | 3 Piece Set",
+    slug: "mercedes-amg-gt-golden",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -410,7 +410,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
     ],
     description:
-      "The Ferrari F40 — the last car personally approved by Enzo Ferrari. This masterpiece of Italian engineering looks absolutely stunning on brushed aluminum, with every curve catching the light.",
+      "A yellow Mercedes-AMG GT tearing down the open road in a blur of golden speed. On brushed aluminum, the vibrant yellow bodywork and motion blur create an electrifying sense of velocity that leaps off the wall.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -424,8 +424,8 @@ export const products: Product[] = [
   },
   {
     id: 12,
-    name: "Cyberpunk Night City | Gaming Metal Poster",
-    slug: "cyberpunk-night-city",
+    name: "Esports Arena | Pro Gaming Setup Metal Poster",
+    slug: "esports-arena",
     category: "Gaming",
     categorySlug: "gaming",
     price: 1299,
@@ -440,7 +440,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
     ],
     description:
-      "Night City glows on brushed aluminum. The neon cyberpunk aesthetic is perfectly complemented by the metallic finish, creating a poster that genuinely seems to glow in the right light.",
+      "An esports pro locked in at their gaming station, ROG headset on and screens blazing. Printed on brushed aluminum, the neon glow of the monitors and ambient lighting create a poster that captures the intensity and focus of competitive gaming.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -454,8 +454,8 @@ export const products: Product[] = [
   },
   {
     id: 13,
-    name: "Lionel Messi | GOAT Metal Poster",
-    slug: "messi-goat",
+    name: "Football Kickoff | Soccer Metal Poster",
+    slug: "football-kickoff",
     category: "Sports",
     categorySlug: "sports",
     price: 1299,
@@ -470,7 +470,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=800&q=80",
     ],
     description:
-      "The GOAT on metal. Lionel Messi in his most iconic moment, printed on premium brushed aluminum. A must-have for any football fan's wall.",
+      "A Nike football boot resting on the ball, close-up on the grass, ready for kickoff. Printed on brushed aluminum, the sharp detail and rich greens bring the pitch to life, making this a perfect piece for any football fan's wall.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -484,8 +484,8 @@ export const products: Product[] = [
   },
   {
     id: 14,
-    name: "Demon Slayer | Tanjiro Metal Print",
-    slug: "demon-slayer-tanjiro",
+    name: "Anime Classics | Wall Art Collection Metal Print",
+    slug: "anime-classics-collection",
     category: "Anime",
     categorySlug: "anime",
     price: 999,
@@ -500,7 +500,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&q=80",
     ],
     description:
-      "Water Breathing, First Form. Tanjiro Kamado's iconic attack captured on brushed aluminum. The swirling water effects look absolutely mesmerizing on the metallic surface.",
+      "A stunning wall collage featuring beloved anime classics — Sailor Moon, One Piece, Pokemon, and Studio Ghibli all together. On brushed aluminum, the vibrant artwork pops with gallery-quality colour, celebrating the greatest anime of all time in one piece.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -514,8 +514,8 @@ export const products: Product[] = [
   },
   {
     id: 15,
-    name: "The Weeknd | After Hours Metal Poster",
-    slug: "weeknd-after-hours",
+    name: "Live Concert | Stage Lights Metal Poster",
+    slug: "live-concert-stage",
     category: "Music",
     categorySlug: "music",
     price: 1299,
@@ -530,7 +530,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
     ],
     description:
-      "The neon-soaked After Hours aesthetic on brushed aluminum. The reds and blues of this album art glow with an intensity that only metal can deliver.",
+      "A performer's silhouette commanding the stage, bathed in smoke and dramatic lighting. Printed on brushed aluminum, the contrast between the dark figure and the glowing stage lights creates an electrifying atmosphere that captures the raw energy of live music.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -544,8 +544,8 @@ export const products: Product[] = [
   },
   {
     id: 16,
-    name: "Retro Gaming Console | Pixel Art Metal Print",
-    slug: "retro-gaming-pixel",
+    name: "Retro Gaming | Game Boy & Classics Metal Print",
+    slug: "retro-gaming-classics",
     category: "Gaming",
     categorySlug: "gaming",
     price: 999,
@@ -560,7 +560,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
     ],
     description:
-      "Nostalgia meets premium. Classic gaming aesthetics on brushed aluminum, perfect for the retro gamer's setup. The metallic finish adds a futuristic twist to pixel art.",
+      "A nostalgic collection of retro gaming consoles — Game Boy, Commodore, and cassettes — bathed in neon purple light. On brushed aluminum, the warm glow and vintage hardware evoke pure gaming nostalgia with a premium, modern twist.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -574,8 +574,8 @@ export const products: Product[] = [
   },
   {
     id: 17,
-    name: "Cristiano Ronaldo | CR7 Metal Poster",
-    slug: "cristiano-ronaldo-cr7",
+    name: "Football Match | Street Soccer Metal Poster",
+    slug: "football-match",
     category: "Sports",
     categorySlug: "sports",
     price: 1299,
@@ -590,7 +590,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1486286701208-1d58e9338013?w=800&q=80",
     ],
     description:
-      "CR7 in his most iconic celebration, printed on brushed aluminum. The metallic sheen perfectly complements the golden light of a stadium under floodlights.",
+      "Two players' legs locked in battle for the ball — the raw intensity of a football match captured up close. On brushed aluminum, every blade of grass and muscle tension is rendered in sharp detail, bringing the beautiful game to life on your wall.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -604,8 +604,8 @@ export const products: Product[] = [
   },
   {
     id: 18,
-    name: "Pulp Fiction | Vintage Cinema Metal Art",
-    slug: "pulp-fiction-vintage",
+    name: "Vintage Cinema | Film Reels Metal Art",
+    slug: "vintage-cinema-reels",
     category: "Movies",
     categorySlug: "movies",
     price: 1299,
@@ -620,7 +620,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
     ],
     description:
-      "Tarantino's masterpiece on brushed aluminum. The retro color palette of Pulp Fiction is elevated by the metallic surface, giving this cult classic a premium, gallery-worthy finish.",
+      "Vintage film reels, a classic projector, and old cameras — a love letter to the golden age of cinema. Printed on brushed aluminum, the warm sepia tones and antique textures gain a timeless, gallery-worthy finish that celebrates the art of filmmaking.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -634,8 +634,8 @@ export const products: Product[] = [
   },
   {
     id: 19,
-    name: "McLaren P1 | Hypercar Metal Print | 3 Piece Set",
-    slug: "mclaren-p1",
+    name: "Audi R8 V10 | Mountain Road Metal Print | 3 Piece Set",
+    slug: "audi-r8-v10",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -650,7 +650,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
     ],
     description:
-      "The McLaren P1 — where art meets engineering. This hypercar looks breathtaking on brushed aluminum, with the metallic finish echoing the car's own carbon fiber and titanium construction.",
+      "A grey Audi R8 V10 in a stunning rear three-quarter view, carving through a mountain road at sunset. On brushed aluminum, the metallic finish echoes the car's own aluminium body panels, creating a seamless fusion of automotive art and premium material.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -664,8 +664,8 @@ export const products: Product[] = [
   },
   {
     id: 20,
-    name: "One Piece | Luffy Gear 5 Metal Poster",
-    slug: "one-piece-luffy-gear5",
+    name: "Manga Mural | Japanese Street Art Metal Poster",
+    slug: "manga-mural-street",
     category: "Anime",
     categorySlug: "anime",
     price: 1299,
@@ -680,7 +680,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&q=80",
     ],
     description:
-      "Monkey D. Luffy's legendary Gear 5 transformation on brushed aluminum. The white and gold tones of Sun God Nika shimmer on the metallic surface like nothing you've ever seen.",
+      "A striking black and white Japanese manga mural painted on a street wall, where urban grit meets anime artistry. On brushed aluminum, the bold ink lines and dramatic compositions take on a gallery-quality sheen that elevates street art to fine art.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -694,8 +694,8 @@ export const products: Product[] = [
   },
   {
     id: 21,
-    name: "Pink Floyd | Dark Side of the Moon Metal Art",
-    slug: "pink-floyd-dark-side",
+    name: "Music Studio | Drums & Stage Metal Art",
+    slug: "music-studio-drums",
     category: "Music",
     categorySlug: "music",
     price: 1499,
@@ -710,7 +710,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80",
     ],
     description:
-      "The iconic prism on brushed aluminum. The rainbow spectrum refracting through the triangle looks absolutely magical on the metallic surface, creating prismatic light effects.",
+      "A moody music studio with drums and a microphone set against an exposed brick wall, bathed in atmospheric lighting. On brushed aluminum, the warm tones and industrial textures create a rich, immersive piece that any musician would be proud to display.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -724,8 +724,8 @@ export const products: Product[] = [
   },
   {
     id: 22,
-    name: "Formula 1 | Racing Metal Poster",
-    slug: "formula-1-racing",
+    name: "Football Pitch | The Beautiful Game Metal Poster",
+    slug: "football-pitch",
     category: "Sports",
     categorySlug: "sports",
     price: 1499,
@@ -740,7 +740,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=80",
     ],
     description:
-      "The thrill of Formula 1 racing captured on premium brushed aluminum. Speed, precision, and engineering excellence — this poster brings the racetrack to your wall.",
+      "A football resting on the lush green pitch, simple and iconic — the essence of the beautiful game. On brushed aluminum, the vivid greens and crisp white of the ball create a clean, striking piece that celebrates football in its purest form.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -754,8 +754,8 @@ export const products: Product[] = [
   },
   {
     id: 23,
-    name: "The Last of Us | Joel & Ellie Metal Print",
-    slug: "last-of-us-joel-ellie",
+    name: "RGB Gaming Keyboard | Neon Setup Metal Print",
+    slug: "rgb-gaming-keyboard",
     category: "Gaming",
     categorySlug: "gaming",
     price: 1299,
@@ -770,7 +770,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&q=80",
     ],
     description:
-      "Joel and Ellie's journey on brushed aluminum. The post-apocalyptic atmosphere is beautifully rendered on the metallic surface, with earthy tones and dramatic lighting.",
+      "A close-up of an RGB gaming keyboard ablaze with neon colours, each key glowing in the dark. On brushed aluminum, the vibrant lighting effects shimmer across the metallic surface, making this the perfect piece for any gamer's setup.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -784,8 +784,8 @@ export const products: Product[] = [
   },
   {
     id: 24,
-    name: "Inception | Dream Layers Metal Art",
-    slug: "inception-dream-layers",
+    name: "Film Projector | Cinema Light Metal Art",
+    slug: "film-projector-light",
     category: "Movies",
     categorySlug: "movies",
     price: 1299,
@@ -800,7 +800,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
     ],
     description:
-      "Is this a dream? Nolan's mind-bending masterpiece on brushed aluminum. The layered cityscapes and surreal architecture look incredible on the metallic surface.",
+      "A film projector casting a powerful beam of light through a dark, smoky room — pure cinematic magic. On brushed aluminum, the contrast between the brilliant light and deep shadows creates a dramatic, atmospheric piece that any film lover will treasure.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -815,8 +815,8 @@ export const products: Product[] = [
   // MORE CARS
   {
     id: 25,
-    name: "Mercedes-Benz 190E W201 | Classic Benz Street Art Set | 3 Piece Set",
-    slug: "mercedes-benz-190e",
+    name: "Range Rover Sport | Black Edition Metal Art | 3 Piece Set",
+    slug: "range-rover-sport",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1299,
@@ -831,7 +831,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=800&q=80",
     ],
     description:
-      "The Mercedes-Benz 190E W201 — a timeless classic that defined an era. Printed on brushed aluminum, every line of this iconic sedan catches the light with unmatched elegance. A must for any Benz enthusiast's wall.",
+      "The black Range Rover Sport commands presence from a front-on garage view, all imposing grille and darkened styling. On brushed aluminum, the deep blacks and subtle reflections give this piece an intensity and luxury that matches the vehicle itself.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -845,8 +845,8 @@ export const products: Product[] = [
   },
   {
     id: 26,
-    name: "Rolls Royce Phantom | Car Set | 3 Piece Set",
-    slug: "rolls-royce-phantom",
+    name: "BMW 4 Series | Estoril Blue Metal Print | 3 Piece Set",
+    slug: "bmw-4-series-blue",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1699,
@@ -861,7 +861,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?w=800&q=80",
     ],
     description:
-      "The Rolls Royce Phantom — the pinnacle of luxury automobiles. This regal machine printed on brushed aluminum exudes the same opulence and presence as the real thing. A statement piece for any room.",
+      "A blue BMW 4 Series in a stunning side profile on the street, showcasing its elegant coupe lines. On brushed aluminum, the Estoril Blue paintwork gleams with a depth that paper simply cannot achieve, making this a showstopper for any BMW enthusiast.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -875,8 +875,8 @@ export const products: Product[] = [
   },
   {
     id: 27,
-    name: "BMW M4 Competition | Street Beast Metal Art | 3 Piece Set",
-    slug: "bmw-m4-competition",
+    name: "Mercedes-AMG GT R | Monaco Noir Metal Art | 3 Piece Set",
+    slug: "mercedes-amg-gt-r-monaco",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1299,
@@ -891,7 +891,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=800&q=80",
     ],
     description:
-      "The BMW M4 Competition in its most aggressive form. The dramatic moody lighting on brushed aluminum creates a poster that feels like a scene from a car chase. Pure German engineering on your wall.",
+      "A matte black Mercedes-AMG GT R parked at the Monaco harbour with a luxury yacht in the background — the ultimate lifestyle shot. On brushed aluminum, the stealth-black finish and Mediterranean backdrop create a piece dripping with sophistication.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -905,8 +905,8 @@ export const products: Product[] = [
   },
   {
     id: 28,
-    name: "Nissan GT-R R35 | Godzilla Metal Poster | 3 Piece Set",
-    slug: "nissan-gtr-r35",
+    name: "Lamborghini Hurac\u00e1n | White Storm Metal Poster | 3 Piece Set",
+    slug: "lamborghini-huracan-white",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1299,
@@ -921,7 +921,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
     ],
     description:
-      "Godzilla unleashed. The Nissan GT-R R35 in all its turbocharged glory, printed on premium brushed aluminum. The tail lights glow with intensity on the metallic surface — a JDM legend for your wall.",
+      "The white Lamborghini Hurac\u00e1n Performante in a dramatic front close-up, every aggressive vent and sharp line on full display. On brushed aluminum, the pristine white bodywork glows against the metallic surface, creating a piece of pure Italian supercar art.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -935,8 +935,8 @@ export const products: Product[] = [
   },
   {
     id: 29,
-    name: "Aston Martin DB11 | British Elegance Metal Art",
-    slug: "aston-martin-db11",
+    name: "Lamborghini Aventador | Dubai Sunset Metal Art",
+    slug: "lamborghini-aventador-dubai",
     category: "Cars & Supercars",
     categorySlug: "cars",
     price: 1499,
@@ -951,7 +951,7 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
     ],
     description:
-      "James Bond's ride of choice. The Aston Martin DB11 on brushed aluminum radiates British elegance and raw power. The metallic finish complements the car's sculpted bodywork beautifully.",
+      "A Lamborghini Aventador from the rear with its iconic scissor doors open, set against a Dubai desert sunset. On brushed aluminum, the warm golden light and dramatic silhouette create a breathtaking fusion of Italian engineering and Arabian luxury.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
