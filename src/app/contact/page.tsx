@@ -126,10 +126,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-sm font-semibold">Email</h3>
                     <p className="text-sm text-neutral-500 mt-1">
-                      hello@ronposters.com
+                      hello@slayposters.com
                     </p>
                     <p className="text-sm text-neutral-500">
-                      support@ronposters.com
+                      support@slayposters.com
                     </p>
                   </div>
                 </div>

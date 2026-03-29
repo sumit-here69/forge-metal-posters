@@ -37,10 +37,10 @@ export default function Navbar() {
             {/* Logo */}
             <Link href="/" className="flex-shrink-0">
               <span
-                className="text-2xl font-bold tracking-[0.2em] uppercase"
+                className="text-2xl font-bold italic tracking-[0.2em] uppercase"
                 style={{ fontFamily: "var(--font-space-grotesk)" }}
               >
-                RON
+                Slay
               </span>
             </Link>
 

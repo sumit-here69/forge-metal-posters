@@ -31,10 +31,10 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <span
-              className="text-2xl font-bold tracking-[0.2em] uppercase"
+              className="text-2xl font-bold italic tracking-[0.2em] uppercase"
               style={{ fontFamily: "var(--font-space-grotesk)" }}
             >
-              RON
+              Slay
             </span>
             <p className="mt-4 text-neutral-400 text-sm leading-relaxed max-w-sm">
               Premium metal posters crafted on brushed aluminum. Bold art that
@@ -136,7 +136,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-8 pt-8 border-t border-neutral-800 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-xs text-neutral-500">
-            &copy; 2026 RON. All rights reserved.
+            &copy; 2026 Slay. All rights reserved.
           </p>
           <div className="flex gap-6">
             <span className="text-xs text-neutral-500">Visa</span>

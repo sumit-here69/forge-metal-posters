@@ -69,7 +69,7 @@ const reviews = [
     location: "New York, USA",
     rating: 5,
     product: "The Dark Knight | Batman Trilogy Metal Poster",
-    text: "I have bought prints from many brands but RON is on another level. The Dark Knight poster has this incredible moody atmosphere that the aluminum finish amplifies. Museum quality.",
+    text: "I have bought prints from many brands but Slay is on another level. The Dark Knight poster has this incredible moody atmosphere that the aluminum finish amplifies. Museum quality.",
     date: "1 month ago",
   },
   {
