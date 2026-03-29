@@ -17,7 +17,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "FORGE | Premium Metal Posters",
+  title: "SLAY | Premium Metal Posters",
   description:
     "Transform your walls with premium metal posters. Bold designs crafted on aluminum for a stunning, modern look that lasts forever.",
 };

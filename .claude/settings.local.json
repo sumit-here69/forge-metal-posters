@@ -3,7 +3,17 @@
     "allow": [
       "Bash(npx --version)",
       "Bash(npx:*)",
-      "Bash(yes \"\")"
+      "Bash(yes \"\")",
+      "Bash(npm install:*)",
+      "Bash(pkill -f 'next dev')",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(curl -sI \"https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400&q=80\" -o /dev/null -w \"%{http_code}\")",
+      "Bash(curl -sI \"https://images.unsplash.com/photo-1615529328331-f8917597711f?w=400&q=80\" -o /dev/null -w \"%{http_code}\")",
+      "Bash(pkill -f 'next build')",
+      "Bash(pkill -9 -f 'next build')",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
