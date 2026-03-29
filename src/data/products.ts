@@ -73,7 +73,7 @@ export const collections: Collection[] = [
     description:
       "The greatest moments in sports history. Champions immortalized on metal.",
     image:
-      "https://images.unsplash.com/photo-1461896836934-bd45ba8f8e45?w=800&q=80",
+      "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&q=80",
     count: 35,
     gradient: "from-emerald-950 to-emerald-800",
   },
@@ -462,11 +462,11 @@ export const products: Product[] = [
     badge: "Bestseller",
     sizes: ["A4", "A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1461896836934-bd45ba8f8e45?w=600&q=80",
+      "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1461896836934-bd45ba8f8e45?w=800&q=80",
-      "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&q=80",
-      "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
+      "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800&q=80",
+      "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?w=800&q=80",
+      "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=800&q=80",
     ],
     description:
       "The GOAT on metal. Lionel Messi in his most iconic moment, printed on premium brushed aluminum. A must-have for any football fan's wall.",
@@ -582,11 +582,11 @@ export const products: Product[] = [
     badge: null,
     sizes: ["A4", "A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=600&q=80",
+      "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&q=80",
-      "https://images.unsplash.com/photo-1461896836934-bd45ba8f8e45?w=800&q=80",
-      "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
+      "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=800&q=80",
+      "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=800&q=80",
+      "https://images.unsplash.com/photo-1486286701208-1d58e9338013?w=800&q=80",
     ],
     description:
       "CR7 in his most iconic celebration, printed on brushed aluminum. The metallic sheen perfectly complements the golden light of a stadium under floodlights.",
@@ -735,8 +735,8 @@ export const products: Product[] = [
       "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&q=80",
     images: [
       "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
-      "https://images.unsplash.com/photo-1461896836934-bd45ba8f8e45?w=800&q=80",
-      "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=800&q=80",
+      "https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800&q=80",
+      "https://images.unsplash.com/photo-1459865264687-595d652de67e?w=800&q=80",
     ],
     description:
       "The thrill of Formula 1 racing captured on premium brushed aluminum. Speed, precision, and engineering excellence — this poster brings the racetrack to your wall.",
@@ -843,12 +843,12 @@ export function getRelatedProducts(
 export const socialImages = [
   "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&q=80",
   "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80",
-  "https://images.unsplash.com/photo-1585128903994-9788298932a4?w=400&q=80",
-  "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80",
+  "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=400&q=80",
+  "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=400&q=80",
   "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=400&q=80",
   "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=400&q=80",
 ];
 
 // Hero images
 export const heroImage =
-  "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80";
+  "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80";
