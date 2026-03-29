@@ -43,8 +43,8 @@ export const collections: Collection[] = [
     description:
       "The world's most legendary automobiles in stunning metal print detail.",
     image:
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
-    count: 30,
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
+    count: 45,
     gradient: "from-neutral-800 to-neutral-600",
   },
   {
@@ -90,10 +90,10 @@ export const collections: Collection[] = [
 ];
 
 export const products: Product[] = [
-  // MOVIES
+  // CARS & SUPERCARS
   {
     id: 1,
-    name: "1966 Shelby Mustang GT350 | Muscle Car Wall Art",
+    name: "1966 Shelby Mustang GT350 | Muscle Car Wall Art | 8 Panel Split Wall Set",
     slug: "shelby-mustang-gt350",
     category: "Cars & Supercars",
     categorySlug: "cars",
@@ -102,20 +102,21 @@ export const products: Product[] = [
     badge: "Bestseller",
     sizes: ["A4", "A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=600&q=80",
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
-      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+      "https://images.unsplash.com/photo-1504215680853-026ed2a45def?w=800&q=80",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?w=800&q=80",
     ],
     description:
-      "A tribute to the legendary 1966 Shelby Mustang GT350, printed on premium brushed aluminum. The metallic finish gives this muscle car art an incredible depth and shimmer that captures every curve and line of this American icon.",
+      "A tribute to the legendary 1966 Shelby Mustang GT350, printed on premium brushed aluminum. The metallic finish gives this muscle car art an incredible depth and shimmer that captures every curve and line of this American icon. The birth of an American Muscle Legend.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
       "Vivid HD color reproduction",
       "Magnetic mounting system included",
       "Waterproof & scratch-resistant",
+      "8 panel split wall set option available",
     ],
     rating: 4.9,
     reviews: 127,
@@ -183,7 +184,7 @@ export const products: Product[] = [
   },
   {
     id: 4,
-    name: "Lamborghini Aventador | Supercar Metal Art",
+    name: "Lamborghini Aventador SVJ | Supercar Metal Art | 3 Piece Set",
     slug: "lamborghini-aventador",
     category: "Cars & Supercars",
     categorySlug: "cars",
@@ -192,14 +193,14 @@ export const products: Product[] = [
     badge: "Trending",
     sizes: ["A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=600&q=80",
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
-      "https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800&q=80",
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=800&q=80",
+      "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?w=800&q=80",
     ],
     description:
-      "The Lamborghini Aventador in all its aggressive beauty, captured on brushed aluminum. The metallic surface perfectly complements the car's sharp lines and exotic design, creating a poster that commands attention in any room.",
+      "The Lamborghini Aventador SVJ in all its aggressive beauty, captured on brushed aluminum. The metallic surface perfectly complements the car's sharp lines and exotic design, creating a poster that commands attention in any room.",
     details: [
       "Printed on 0.45mm brushed aluminum",
       "UV-resistant archival inks",
@@ -303,7 +304,7 @@ export const products: Product[] = [
   },
   {
     id: 8,
-    name: "Porsche 911 GT3 RS | Racing Metal Art",
+    name: "Porsche 911 GT3 RS | Racing Metal Art | 3 Piece Set",
     slug: "porsche-911-gt3-rs",
     category: "Cars & Supercars",
     categorySlug: "cars",
@@ -312,11 +313,11 @@ export const products: Product[] = [
     badge: null,
     sizes: ["A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=600&q=80",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
-      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80",
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c?w=800&q=80",
     ],
     description:
       "The Porsche 911 GT3 RS — engineering perfection on brushed aluminum. Every aerodynamic detail, every racing line, captured with stunning clarity on premium metal.",
@@ -393,7 +394,7 @@ export const products: Product[] = [
   },
   {
     id: 11,
-    name: "Ferrari F40 | Classic Supercar Metal Art",
+    name: "Ferrari F40 | Classic Supercar Metal Art | 3 Piece Set",
     slug: "ferrari-f40",
     category: "Cars & Supercars",
     categorySlug: "cars",
@@ -402,11 +403,11 @@ export const products: Product[] = [
     badge: null,
     sizes: ["A4", "A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=80",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
-      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
+      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80",
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80",
+      "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
     ],
     description:
       "The Ferrari F40 — the last car personally approved by Enzo Ferrari. This masterpiece of Italian engineering looks absolutely stunning on brushed aluminum, with every curve catching the light.",
@@ -633,7 +634,7 @@ export const products: Product[] = [
   },
   {
     id: 19,
-    name: "McLaren P1 | Hypercar Metal Print",
+    name: "McLaren P1 | Hypercar Metal Print | 3 Piece Set",
     slug: "mclaren-p1",
     category: "Cars & Supercars",
     categorySlug: "cars",
@@ -642,11 +643,11 @@ export const products: Product[] = [
     badge: "New",
     sizes: ["A3", '13x19"'],
     image:
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=600&q=80",
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=600&q=80",
     images: [
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?w=800&q=80",
-      "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80",
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&q=80",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
     ],
     description:
       "The McLaren P1 — where art meets engineering. This hypercar looks breathtaking on brushed aluminum, with the metallic finish echoing the car's own carbon fiber and titanium construction.",
@@ -809,6 +810,157 @@ export const products: Product[] = [
     ],
     rating: 4.8,
     reviews: 134,
+    inStock: true,
+  },
+  // MORE CARS
+  {
+    id: 25,
+    name: "Mercedes-Benz 190E W201 | Classic Benz Street Art Set | 3 Piece Set",
+    slug: "mercedes-benz-190e",
+    category: "Cars & Supercars",
+    categorySlug: "cars",
+    price: 1299,
+    originalPrice: 1999,
+    badge: "New",
+    sizes: ["A4", "A3", '13x19"'],
+    image:
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?w=600&q=80",
+    images: [
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+      "https://images.unsplash.com/photo-1616422285623-13ff0162193c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600712242805-5f78671b24da?w=800&q=80",
+    ],
+    description:
+      "The Mercedes-Benz 190E W201 — a timeless classic that defined an era. Printed on brushed aluminum, every line of this iconic sedan catches the light with unmatched elegance. A must for any Benz enthusiast's wall.",
+    details: [
+      "Printed on 0.45mm brushed aluminum",
+      "UV-resistant archival inks",
+      "Vivid HD color reproduction",
+      "Magnetic mounting system included",
+      "Waterproof & scratch-resistant",
+    ],
+    rating: 4.8,
+    reviews: 88,
+    inStock: true,
+  },
+  {
+    id: 26,
+    name: "Rolls Royce Phantom | Car Set | 3 Piece Set",
+    slug: "rolls-royce-phantom",
+    category: "Cars & Supercars",
+    categorySlug: "cars",
+    price: 1699,
+    originalPrice: 2999,
+    badge: "Bestseller",
+    sizes: ["A3", '13x19"'],
+    image:
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=600&q=80",
+    images: [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800&q=80",
+      "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=800&q=80",
+      "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?w=800&q=80",
+    ],
+    description:
+      "The Rolls Royce Phantom — the pinnacle of luxury automobiles. This regal machine printed on brushed aluminum exudes the same opulence and presence as the real thing. A statement piece for any room.",
+    details: [
+      "Printed on 0.45mm brushed aluminum",
+      "UV-resistant archival inks",
+      "Vivid HD color reproduction",
+      "Magnetic mounting system included",
+      "Waterproof & scratch-resistant",
+    ],
+    rating: 4.9,
+    reviews: 112,
+    inStock: true,
+  },
+  {
+    id: 27,
+    name: "BMW M4 Competition | Street Beast Metal Art | 3 Piece Set",
+    slug: "bmw-m4-competition",
+    category: "Cars & Supercars",
+    categorySlug: "cars",
+    price: 1299,
+    originalPrice: 1999,
+    badge: "Trending",
+    sizes: ["A4", "A3"],
+    image:
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=600&q=80",
+    images: [
+      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=800&q=80",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+      "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=800&q=80",
+    ],
+    description:
+      "The BMW M4 Competition in its most aggressive form. The dramatic moody lighting on brushed aluminum creates a poster that feels like a scene from a car chase. Pure German engineering on your wall.",
+    details: [
+      "Printed on 0.45mm brushed aluminum",
+      "UV-resistant archival inks",
+      "Vivid HD color reproduction",
+      "Magnetic mounting system included",
+      "Waterproof & scratch-resistant",
+    ],
+    rating: 4.8,
+    reviews: 76,
+    inStock: true,
+  },
+  {
+    id: 28,
+    name: "Nissan GT-R R35 | Godzilla Metal Poster | 3 Piece Set",
+    slug: "nissan-gtr-r35",
+    category: "Cars & Supercars",
+    categorySlug: "cars",
+    price: 1299,
+    originalPrice: 1999,
+    badge: null,
+    sizes: ["A4", "A3", '13x19"'],
+    image:
+      "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=600&q=80",
+    images: [
+      "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=800&q=80",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&q=80",
+    ],
+    description:
+      "Godzilla unleashed. The Nissan GT-R R35 in all its turbocharged glory, printed on premium brushed aluminum. The tail lights glow with intensity on the metallic surface — a JDM legend for your wall.",
+    details: [
+      "Printed on 0.45mm brushed aluminum",
+      "UV-resistant archival inks",
+      "Vivid HD color reproduction",
+      "Magnetic mounting system included",
+      "Waterproof & scratch-resistant",
+    ],
+    rating: 4.9,
+    reviews: 143,
+    inStock: true,
+  },
+  {
+    id: 29,
+    name: "Aston Martin DB11 | British Elegance Metal Art",
+    slug: "aston-martin-db11",
+    category: "Cars & Supercars",
+    categorySlug: "cars",
+    price: 1499,
+    originalPrice: 2499,
+    badge: null,
+    sizes: ["A3", '13x19"'],
+    image:
+      "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?w=600&q=80",
+    images: [
+      "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?w=800&q=80",
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+      "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800&q=80",
+    ],
+    description:
+      "James Bond's ride of choice. The Aston Martin DB11 on brushed aluminum radiates British elegance and raw power. The metallic finish complements the car's sculpted bodywork beautifully.",
+    details: [
+      "Printed on 0.45mm brushed aluminum",
+      "UV-resistant archival inks",
+      "Vivid HD color reproduction",
+      "Magnetic mounting system included",
+      "Waterproof & scratch-resistant",
+    ],
+    rating: 4.8,
+    reviews: 67,
     inStock: true,
   },
 ];
